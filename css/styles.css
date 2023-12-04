@@ -162,23 +162,37 @@ footer a:hover {
     text-decoration: underline;
 }
 
-img.img1 {
+img.img1{
+	width: 250px;
+	height:275px;
 	float: left;
-}
-
-img.img2 {
-	float: right;
-	padding-left: 50px;
+	padding-left: 100px;
 	padding-top: 20px;
 }
 
-img.img3 {
+img.img2 {
+	width: 250px;
 	float: left;
-	padding-left: 150px;
-	padding-top: 30px;
+	padding-left: 100px;
+	padding-top: 20px;
+}
+
+img.img3{
+	width: 250px;
+	float: left;
+	padding-left: 100px;
+	padding-right: 150px;
+	padding-top: 20px;
 }
 
 img.img4{
+	padding-top: 20px;
+}
+
+img.img5 {
+	width: 450px;
+	float: right;
+	padding-left: 50px;
 	padding-top: 20px;
 }
 
